@@ -38,10 +38,4 @@ This repository contains code and analysis for predicting wine quality using mac
 - Set up your Python environment (see `requirements.yml`).
 - Run the relevant scripts (e.g., `train_models.py`, `evaluate.py`).
 
-## License
 
-Distributed under the MIT License. See LICENSE for more information.
-
----
-
-Feel free to customize this template further based on your specific project details. Good luck with your wine quality prediction! 🍷🔍
